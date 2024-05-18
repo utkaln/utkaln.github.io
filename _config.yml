@@ -1,0 +1,9 @@
+# Site Settings
+title: GitHub Projects - Utkal Nayak
+author:
+  name: Utkal Nayak
+  email: nayak.utkal@gmail.com
+
+# Build settings
+remote_theme: jekyll/minima
+markdown: GFM
