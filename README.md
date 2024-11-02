@@ -1,7 +1,7 @@
 # Utkal Nayak's GitHub Pages
 ## Current Projects
-  - [Machine Learning](https://utkaln.github.io/machine-learning)
   - [GenAI with Open AI and Langchain](https://utkaln.github.io/langchain-openai-utilities)
+  - [Machine Learning](https://utkaln.github.io/machine-learning)
   - [Nest JS](https://utkaln.github.io/learn-nestjs/)
   - [AWS Solutions Architect Associate 2024 Certification Materials](https://utkaln.github.io/AWS-SAA/)
 
