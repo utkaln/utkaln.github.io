@@ -1,7 +1,7 @@
 # Utkal Nayak's GitHub Pages
 ## Current Projects
   - [Azure Databricks Tutorial](https://utkaln.github.io/learn-azure-databricks/)
-  - [Agentic Workflow using Anthropic](https://utkaln.github.io/aws-bedrock-agentic-workflow)
+  - [Agentic Workflow using AWS Bedrock](https://utkaln.github.io/aws-bedrock-agentic-workflow)
   - [Agentic Workflow using Anthropic](https://utkaln.github.io/agent-anthropic)
   - [CRUD API using AWS API Gateway, Lambda, DynamDB](https://utkaln.github.io/cdk-crud-apigw-lambda)
   - [GenAI with Open AI and Langchain](https://utkaln.github.io/langchain-openai-utilities)
