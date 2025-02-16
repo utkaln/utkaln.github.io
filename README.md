@@ -1,6 +1,8 @@
 # Utkal Nayak's GitHub Pages
 ## Current Projects
   - [Azure Databricks Tutorial](https://utkaln.github.io/learn-azure-databricks/)
+  - [Agentic Workflow using Anthropic](https://utkaln.github.io/aws-bedrock-agentic-workflow)
+  - [Agentic Workflow using Anthropic](https://utkaln.github.io/agent-anthropic)
   - [GenAI with Open AI and Langchain](https://utkaln.github.io/langchain-openai-utilities)
   - [Machine Learning](https://utkaln.github.io/machine-learning)
   - [Nest JS](https://utkaln.github.io/learn-nestjs/)
