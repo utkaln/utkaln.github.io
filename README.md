@@ -3,6 +3,7 @@
   - [Azure Databricks Tutorial](https://utkaln.github.io/learn-azure-databricks/)
   - [Agentic Workflow using Anthropic](https://utkaln.github.io/aws-bedrock-agentic-workflow)
   - [Agentic Workflow using Anthropic](https://utkaln.github.io/agent-anthropic)
+  - [CRUD API using AWS API Gateway, Lambda, DynamDB](https://utkaln.github.io/cdk-crud-apigw-lambda)
   - [GenAI with Open AI and Langchain](https://utkaln.github.io/langchain-openai-utilities)
   - [Machine Learning](https://utkaln.github.io/machine-learning)
   - [Nest JS](https://utkaln.github.io/learn-nestjs/)
